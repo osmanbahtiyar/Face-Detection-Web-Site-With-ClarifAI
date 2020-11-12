@@ -1,5 +1,4 @@
-# SmartBrain - v2
-Final project for ZTM course
+# Face-Detection-Web-Site-With-ClarifAI/frontend
 
 1. Clone this repo
 2. Run `npm install`
