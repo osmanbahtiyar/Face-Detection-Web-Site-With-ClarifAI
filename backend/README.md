@@ -1,5 +1,4 @@
-# SmartBrain-api - v2
-Final project for ZTM course
+# Face-Detection-Web-Site-With-ClarifAI/backend
 
 1. Clone this repo
 2. Run `npm install`
@@ -9,4 +8,3 @@ Final project for ZTM course
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 
-** Make sure you use postgreSQL instead of mySQL for this code base.
